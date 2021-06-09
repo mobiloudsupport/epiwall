@@ -1,0 +1,18 @@
+
+.mobileapp-hidden {
+   display: none;
+}
+
+.mobileapp-wide {
+   width:100% !important;
+}
+
+.mobileapp-show {
+  display: block !important;
+}
+
+.channel-name {
+    margin-left: 20px;
+	margin-top: 15px;
+}
+
