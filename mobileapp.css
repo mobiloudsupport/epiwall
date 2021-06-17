@@ -16,3 +16,28 @@
 	margin-top: 15px;
 }
 
+.sign-up-form {
+	height:100%;
+	width:100%;
+	padding-top:30px;
+}
+
+.sign-up-form:after {
+	display:none !important;
+}
+
+#exec { display:none !important; }
+
+.container {
+	max-width:100% !important;
+	width:100% !important;
+	padding-left:0 !important;
+}
+
+.random-phrase {
+	display:none !important;
+}
+
+.arrows {
+	display:none !important;
+}
